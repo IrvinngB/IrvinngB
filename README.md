@@ -43,10 +43,15 @@ class Developer {
     other: ["REST APIs", "GraphQL", "OAuth", "JWT", "Microservices"]
   };
   
-  currentlyLearning = ["Machine Learning", "Serverless", "System Design"];
+  currentlyLearning = ["Machine Learning", "Serverless Architecture", "System Design"];
+  hobbies = ["Music 🎵", "Spider-Man 🕷️", "Gaming 🎮"];
   
   lifePhilosophy(): string {
     return "Code with passion, debug with patience, deploy with confidence 🚀";
+  }
+  
+  favoriteQuote(): string {
+    return "With great power comes great responsibility... and great code! 🕸️";
   }
 }
 
@@ -264,9 +269,16 @@ Strategic thinking & problem-solving
 </td>
 <td width="25%" align="center">
 
-🎨  
-**Design**  
-UI/UX mockups & brand identity
+🎵  
+**Music**  
+Coding soundtracks & creative inspiration
+
+</td>
+<td width="25%" align="center">
+
+🕷️  
+**Spider-Man**  
+With great code comes great responsibility
 
 </td>
 <td width="25%" align="center">
@@ -274,13 +286,6 @@ UI/UX mockups & brand identity
 📚  
 **Learning**  
 Always exploring new tech
-
-</td>
-<td width="25%" align="center">
-
-☕  
-**Coffee**  
-Fueling late-night coding sessions
 
 </td>
 </tr>
@@ -316,7 +321,7 @@ I'm always open to collaborating on innovative projects:
 <br />
 <br />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=With%20great%20power%20comes%20great%20responsibility...%20and%20great%20code!&author=Spider-Dev" />
 
 <br />
 
@@ -324,8 +329,10 @@ I'm always open to collaborating on innovative projects:
 
 ```javascript
 while (coding) {
-  coffee++;
-  bugs--;
+  music.play();
+  if (bug.found()) {
+    remember("With great power comes great debugging! 🕸️");
+  }
   awesomeness++;
 }
 ```
@@ -346,6 +353,6 @@ while (coding) {
 
 <div align="center">
 
-<sub>Made with 💜 by Irvin Benitez</sub>
+<sub>Made with 💜 and 🎵 by Irvin Benitez | Friendly Neighborhood Developer 🕷️</sub>
 
 </div>
