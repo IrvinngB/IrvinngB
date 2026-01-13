@@ -58,8 +58,12 @@ const irvin = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IrvinngB&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvinngB&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrvinngB&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvinngB&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=6" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IrvinngB&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 
 </div>
 
