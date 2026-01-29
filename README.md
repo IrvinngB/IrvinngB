@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=180&section=header&text=Irvin%20Benitez&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007f5f,50:55a630,100:aacc00&height=180&section=header&text=Irvin%20Benitez&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=80B918&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Architect+%F0%9F%93%B1;API+Specialist+%E2%9A%A1)](https://github.com/IrvinngB)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007F5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-benitez-11313231b/)
 [![Email](https://img.shields.io/badge/Email-2B9348?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Irvin.Benitezs.26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-80B918?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-personal-v3.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-80B918?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/IrvinngB)
 
 </div>
 
@@ -27,10 +27,11 @@ const irvin = {
 ### Frontend
 ![React](https://img.shields.io/badge/React-007F5F?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-2B9348?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-55A630?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-80B918?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-55A630?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-80B918?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-AACC00?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EEEF20?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-AACC00?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-BFD200?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-55A630?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,8 +45,6 @@ const irvin = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B9348?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-55A630?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-80B918?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-AACC00?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-007F5F?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-BFD200?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools
@@ -67,7 +66,7 @@ const irvin = {
 
 </div>
 
-## 🤝 Let's Connect
+## 🌱 Let's Connect
 
 Always open to collaborating on innovative projects! Whether it's web apps, mobile development, or cloud solutions, let's build something amazing together.
 
@@ -75,6 +74,6 @@ Always open to collaborating on innovative projects! Whether it's web apps, mobi
 
 **⭐ Feel free to explore my repositories! ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007f5f,50:55a630,100:aacc00&height=100&section=footer" />
 
 </div>
