@@ -72,14 +72,6 @@ const irvin = {
 
 </div>
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=80B918&author_color=AACC00&border_color=55A630)
-
-</div>
-
 ## 🎯 Current Focus
 
 ```javascript
