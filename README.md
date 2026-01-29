@@ -53,13 +53,6 @@ const irvin = {
 ![Figma](https://img.shields.io/badge/Figma-EEEF20?style=for-the-badge&logo=figma&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-80B918?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 💼 Featured Portfolio
-
-<div align="center">
-
-[![Portfolio Preview](https://img.shields.io/badge/🚀_VIEW_LIVE_PROJECTS-80B918?style=for-the-badge&logoColor=white)](https://portafolio-personal-v3.vercel.app/)
-
-**Explore my complete portfolio with live demos, case studies, and project showcases**
 
 </div>
 
@@ -68,22 +61,6 @@ const irvin = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=IrvinngB&theme=dark&hide_border=true&background=0D1117&ring=80B918&fire=EEEF20&currStreakLabel=AACC00&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/api/?username=IrvinngB&theme=algolia&no-frame=true&no-bg=true&column=4&title=MultiLanguage,Commits,Repositories,PullRequest)
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IrvinngB&custom_title=Contribution%20Activity&bg_color=0D1117&color=80B918&line=AACC00&point=EEEF20&area_color=55A630&title_color=80B918&area=true&hide_border=true)](https://github.com/IrvinngB)
 
 </div>
 
