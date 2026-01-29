@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007F5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-benitez-11313231b/)
 [![Email](https://img.shields.io/badge/Email-2B9348?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Irvin.Benitezs.26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-80B918?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/IrvinngB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-80B918?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-personal-v3.vercel.app/)
 
 </div>
 
