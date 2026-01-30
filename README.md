@@ -57,7 +57,7 @@ const irvin = {
 
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/github-metrics.svg)
 
 </div>
 
