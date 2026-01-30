@@ -1,4 +1,4 @@
-name: GitHub Profile Summary Cards
+name: Metrics
 
 on:
   schedule:
@@ -9,17 +9,29 @@ on:
       - main
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
+    
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: -5 # Panama timezone
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: IrvinngB
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Panama
+          config_output: svg
+          filename: metrics.svg
+          
+          # Isocalendar plugin (como la culebrita pero con stats)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Languages plugin
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_colors: "0:007f5f,25:2b9348,50:55a630,75:80b918,100:aacc00"
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
