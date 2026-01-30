@@ -60,7 +60,10 @@ const irvin = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=IrvinngB&theme=dark&hide_border=true&background=0D1117&ring=80B918&fire=EEEF20&currStreakLabel=AACC00&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+
+<img width="49%" src="https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
+<img width="49%" src="https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
 
 </div>
 
