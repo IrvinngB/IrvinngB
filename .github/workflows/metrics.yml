@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -20,18 +20,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: IrvinngB
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, repositories  # Removí 'community'
           config_timezone: America/Panama
-          config_output: svg
-          filename: metrics.svg
+          config_display: large
           
-          # Isocalendar plugin (como la culebrita pero con stats)
+          # Plugin de calendario (como la culebrita)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Languages plugin
+          # Plugin de lenguajes
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
           plugin_languages_colors: "0:007f5f,25:2b9348,50:55a630,75:80b918,100:aacc00"
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage
