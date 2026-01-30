@@ -60,10 +60,7 @@ const irvin = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-
-<img width="49%" src="https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
-<img width="49%" src="https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+![Metrics](https://raw.githubusercontent.com/IrvinngB/IrvinngB/main/metrics.svg)
 
 </div>
 
