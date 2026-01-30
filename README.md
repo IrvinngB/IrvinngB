@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007f5f,50:55a630,100:aacc00&height=180&section=header&text=Irvin%20Benitez&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=80B918&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Architect+%F0%9F%93%B1;API+Specialist+%E2%9A%A1)](https://github.com/IrvinngB)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=80B918&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Mobile+App+Architect;API+Specialist)](https://github.com/IrvinngB)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007F5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-benitez-11313231b/)
 [![Email](https://img.shields.io/badge/Email-2B9348?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Irvin.Benitezs.26@gmail.com)
@@ -10,7 +10,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
 ```typescript
 const irvin = {
@@ -18,11 +18,11 @@ const irvin = {
   education: "Software Development @ Technological University of Panama",
   focus: ["Full-Stack Development", "Mobile Apps", "Cloud Architecture"],
   learning: ["Machine Learning", "System Design", "Serverless"],
-  philosophy: "Code with passion, debug with patience 🕸️"
+  philosophy: "Code with passion, debug with patience"
 };
 ```
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-007F5F?style=for-the-badge&logo=react&logoColor=white)
@@ -53,10 +53,7 @@ const irvin = {
 ![Figma](https://img.shields.io/badge/Figma-EEEF20?style=for-the-badge&logo=figma&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-80B918?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-</div>
-
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
 <div align="center">
 
@@ -64,7 +61,7 @@ const irvin = {
 
 </div>
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Snake
 
 <div align="center">
 
@@ -72,7 +69,7 @@ const irvin = {
 
 </div>
 
-## 🎯 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="25" height="25" /> Current Focus
 
 ```javascript
 const currentGoals = {
@@ -83,13 +80,13 @@ const currentGoals = {
 };
 ```
 
-## 📫 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Contact" width="25" height="25" /> Let's Connect
 
 <div align="center">
 
 Always open to collaborating on innovative projects! Whether it's web apps, mobile development, or cloud solutions, let's build something amazing together.
 
-**⭐ Feel free to explore my repositories and reach out! ⭐**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" /> **Feel free to explore my repositories and reach out!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007f5f,50:55a630,100:aacc00&height=100&section=footer" />
 
