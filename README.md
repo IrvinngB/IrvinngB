@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvin-benitez-11313231b/)
 [![Email](https://img.shields.io/badge/Email-00b4d8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Irvin.Benitezs.26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-48cae4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-personal-v3.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0096c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-personal-v3.vercel.app/)
 
 </div>
 
@@ -27,31 +27,31 @@ const irvin = {
 ### Frontend
 ![React](https://img.shields.io/badge/React-0077b6?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-00b4d8?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-48cae4?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-0096c7?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-03045e?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-90e0ef?style=for-the-badge&logo=typescript&logoColor=03045e)
-![JavaScript](https://img.shields.io/badge/JavaScript-ade8f4?style=for-the-badge&logo=javascript&logoColor=03045e)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-caf0f8?style=for-the-badge&logo=tailwind-css&logoColor=0077b6)
+![TypeScript](https://img.shields.io/badge/TypeScript-023e8a?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0077b6?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00b4d8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0096c7?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00b4d8?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-48cae4?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-90e0ef?style=for-the-badge&logo=fastapi&logoColor=03045e)
-![Laravel](https://img.shields.io/badge/Laravel-0077b6?style=for-the-badge&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-023e8a?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0077b6?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-00b4d8?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-03045e?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-023e8a?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-0077b6?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0077b6?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0096c7?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00b4d8?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-48cae4?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-90e0ef?style=for-the-badge&logo=docker&logoColor=0077b6)
+![MySQL](https://img.shields.io/badge/MySQL-0077b6?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0096c7?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-0096c7?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-00b4d8?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-48cae4?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-90e0ef?style=for-the-badge&logo=visual-studio-code&logoColor=0077b6)
+![Git](https://img.shields.io/badge/Git-00b4d8?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0077b6?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0096c7?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-023e8a?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
